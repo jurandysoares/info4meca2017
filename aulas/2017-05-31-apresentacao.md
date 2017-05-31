@@ -52,4 +52,4 @@ Comandos básicos:
 # Fim da aula
 Clique:
 1. Na engrenagem (botão superior à direita)
-2. Em *ShutDown...* (Por que tem as [reticências](http://www.dicionarioinformal.com.br/significado/retic%C3%AAncia/1792/)?)
+2. Em *ShutDown...* (Por que tem as [reticências](https://www.normaculta.com.br/reticencias/)?)
