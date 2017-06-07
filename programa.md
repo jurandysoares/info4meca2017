@@ -1,19 +1,17 @@
 
-:Curso: Técnico Integrado em Mecatrônica
-:Disciplina: Fundamentos de Sistemas Operacionais e Sistemas Operacionais de Redes
-:Carga-horária: 45h (60h/a)
+* :Curso: Técnico Integrado em Mecatrônica
+* :Disciplina: Fundamentos de Sistemas Operacionais e Sistemas Operacionais de Redes
+* :Carga-horária: 45h (60h/a)
 
-Ementa
-======
+## Ementa
 
 Identificar os componentes lógicos e físicos do computador. Operar soluções de softwares utilitários e
 para escritório. Utilizar a internet de forma segura e fazer uso dos seus diversos serviços.
 
-Programa
-========
+## Programa
 
-Objetivos
----------
+
+## Objetivos
 
 * Oportunizar a reflexão sobre a utilização da informática na contemporaneidade;
 * Conhecer os componentes básicos de um computador: entrada, processamento, saída e
@@ -25,29 +23,28 @@ armazenamento;
 * Utilizar navegadores e os diversos serviços da internet;
 * Operar softwares para escritório.
 
-Bases Científico-Tecnológicas (Conteúdos)
---------------------------------------------
-1. Introdução à informática
+## Bases Científico-Tecnológicas (Conteúdos)
 
+1. Introdução à informática
    * Hardware
    * Software
   
 2. Sistemas operacionais
 
-    * Fundamentos e funções
-    * Sistemas operacionais existentes
-    * Utilização de um sistema operacional
+   * Fundamentos e funções
+   * Sistemas operacionais existentes
+   * Utilização de um sistema operacional
 
-        * Ligar e desligar o computador
-        * Interfaces de interação
-        * Área de trabalho
-        * Gerenciador de pastas e arquivos
-        * Ferramentas de sistemas
-        * Softwares utilitários
+      * Ligar e desligar o computador
+      * Interfaces de interação
+      * Área de trabalho
+      * Gerenciador de pastas e arquivos
+      * Ferramentas de sistemas
+      * Softwares utilitários
     
-            * Compactadores de arquivos
-            * Leitor de PDF
-            * Antivírus
+          * Compactadores de arquivos
+          * Leitor de PDF
+          * Antivírus
 
 3. Internet
 
