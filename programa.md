@@ -44,17 +44,18 @@ armazenamento;
         * Antivírus
 
 3. Internet
-  * World Wide Web
-    * Navegadores
-    * Sistema acadêmico
-    * Pesquisa de informações
-    * Download de arquivos
-    * Correio eletrônico
-    * Grupos/listas de discussão
-    * Redes sociais
-    * Ética
+
+    * World Wide Web
+        * Navegadores
+        * Sistema acadêmico
+        * Pesquisa de informações
+        * Download de arquivos
+        * Correio eletrônico
+        * Grupos/listas de discussão
+        * Redes sociais
+        * Ética
     
-  * Segurança da informação
+    * Segurança da informação
   
 4. Software de edição de texto
 
