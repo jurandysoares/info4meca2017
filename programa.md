@@ -57,36 +57,33 @@ armazenamento;
   * Segurança da informação
   
 4. Software de edição de texto
-
-  4.1 Visão geral
-  4.2 Digitação e movimentação de texto
-  4.3 Nomear, gravar e encerrar sessão de trabalho
-  4.4 Formatação de página, texto, parágrafos e colunas
-  4.5 Correção ortográfica e dicionário
-  4.6 Inserção de quebra de página e coluna
-  4.7 Listas, marcadores e numeradores
-  4.8 Figuras, objetos e tabelas
+  * Visão geral
+  * Digitação e movimentação de texto
+  * Nomear, gravar e encerrar sessão de trabalho
+  * Formatação de página, texto, parágrafos e colunas
+  * Correção ortográfica e dicionário
+  * Inserção de quebra de página e coluna
+  * Listas, marcadores e numeradores
+  * Figuras, objetos e tabelas
 
 5. Software de planilha eletrônica
-
-  5.1 Visão geral
-  5.2 Formatação células
-  5.3 Fórmulas e funções
-  5.4 Classificação e filtro de dados
-  5.5 Formatação condicional
-  5.6 Gráficos
+  * Visão geral
+  * Formatação células
+  * Fórmulas e funções
+  * Classificação e filtro de dados
+  * Formatação condicional
+  * Gráficos
 
 6. Software de apresentação
-
-  6.1 Visão geral do Software
-  6.2 Assistente de criação
-  6.3 Modos de exibição de slides
-  6.4 Formatação de slides
-  6.5 Impressão de slides
-  6.6 Listas, formatação de textos, inserção de desenhos, figuras, som
-  6.7 Vídeo, inserção de gráficos, organogramas e fluxogramas
-  6.8 Slide mestre
-  6.9 Efeitos de transição e animação de slides
+  * Visão geral do Software
+  * Assistente de criação
+  * Modos de exibição de slides
+  * Formatação de slides
+  * Impressão de slides
+  * Listas, formatação de textos, inserção de desenhos, figuras, som
+  * Vídeo, inserção de gráficos, organogramas e fluxogramas
+  * Slide mestre
+  * Efeitos de transição e animação de slides
 
 Procedimentos Metodogógicos
 ----------------------------
