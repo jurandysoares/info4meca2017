@@ -1,7 +1,7 @@
 
-* :Curso: Técnico Integrado em Mecatrônica
-* :Disciplina: Fundamentos de Sistemas Operacionais e Sistemas Operacionais de Redes
-* :Carga-horária: 45h (60h/a)
+* **Curso:** Técnico Integrado em Mecatrônica
+* **Disciplina:** Fundamentos de Sistemas Operacionais e Sistemas Operacionais de Redes
+* **:Carga-horária:** 45h (60h/a)
 
 ## Ementa
 
@@ -26,40 +26,35 @@ armazenamento;
 ## Bases Científico-Tecnológicas (Conteúdos)
 
 1. Introdução à informática
-   * Hardware
-   * Software
+  * Hardware
+  * Software
   
 2. Sistemas operacionais
-
-   * Fundamentos e funções
-   * Sistemas operacionais existentes
-   * Utilização de um sistema operacional
-
-      * Ligar e desligar o computador
-      * Interfaces de interação
-      * Área de trabalho
-      * Gerenciador de pastas e arquivos
-      * Ferramentas de sistemas
-      * Softwares utilitários
-    
-          * Compactadores de arquivos
-          * Leitor de PDF
-          * Antivírus
+  * Fundamentos e funções
+  * Sistemas operacionais existentes
+  * Utilização de um sistema operacional
+    * Ligar e desligar o computador
+    * Interfaces de interação
+    * Área de trabalho
+    * Gerenciador de pastas e arquivos
+    * Ferramentas de sistemas
+    * Softwares utilitários   
+      * Compactadores de arquivos
+      * Leitor de PDF
+      * Antivírus
 
 3. Internet
-
-  3.1 World Wide Web
-
-    3.1.1 Navegadores
-    3.1.2 Sistema acadêmico
-    3.1.3 Pesquisa de informações
-    3.1.4 Download de arquivos
-    3.1.5 Correio eletrônico
-    3.1.6 Grupos/listas de discussão
-    3.1.7 Redes sociais
-    3.1.8 Ética
+  * World Wide Web
+    * Navegadores
+    * Sistema acadêmico
+    * Pesquisa de informações
+    * Download de arquivos
+    * Correio eletrônico
+    * Grupos/listas de discussão
+    * Redes sociais
+    * Ética
     
-  3.2 Segurança da informação
+  * Segurança da informação
   
 4. Software de edição de texto
 
