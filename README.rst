@@ -34,19 +34,20 @@ Bases Científico-Tecnológicas (Conteúdos)
   
 2. Sistemas operacionais
 
-  2.1 Fundamentos e funções
-  2.2 Sistemas operacionais existentes
-  2.3 Utilização de um sistema operacional
-  2.3.1 Ligar e desligar o computador
-  2.3.2 Interfaces de interação
-  2.3.3 Área de trabalho
-  2.3.4 Gerenciador de pastas e arquivos
-  2.3.5 Ferramentas de sistemas
-  2.3.6 Softwares utilitários
-  
-    2.3.6.1 Compactadores de arquivos
-    2.3.6.2 Leitor de PDF
-    2.3.6.3 Antivírus
+    * Fundamentos e funções
+    * Sistemas operacionais existentes
+    * Utilização de um sistema operacional
+
+        * Ligar e desligar o computador
+        * Interfaces de interação
+        * Área de trabalho
+        * Gerenciador de pastas e arquivos
+        * Ferramentas de sistemas
+        * Softwares utilitários
+    
+            * Compactadores de arquivos
+            * Leitor de PDF
+            * Antivírus
 
 3. Internet
 
