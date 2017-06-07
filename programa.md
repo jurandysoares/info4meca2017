@@ -26,22 +26,22 @@ armazenamento;
 ## Bases Científico-Tecnológicas (Conteúdos)
 
 1. Introdução à informática
-  * Hardware
-  * Software
+   * Hardware
+   * Software
   
 2. Sistemas operacionais
-  * Fundamentos e funções
-  * Sistemas operacionais existentes
-  * Utilização de um sistema operacional
-    * Ligar e desligar o computador
-    * Interfaces de interação
-    * Área de trabalho
-    * Gerenciador de pastas e arquivos
-    * Ferramentas de sistemas
-    * Softwares utilitários   
-      * Compactadores de arquivos
-      * Leitor de PDF
-      * Antivírus
+   * Fundamentos e funções
+   * Sistemas operacionais existentes
+   * Utilização de um sistema operacional
+     * Ligar e desligar o computador
+     * Interfaces de interação
+     * Área de trabalho
+     * Gerenciador de pastas e arquivos
+     * Ferramentas de sistemas
+     * Softwares utilitários   
+        * Compactadores de arquivos
+        * Leitor de PDF
+        * Antivírus
 
 3. Internet
   * World Wide Web
@@ -57,33 +57,36 @@ armazenamento;
   * Segurança da informação
   
 4. Software de edição de texto
-  * Visão geral
-  * Digitação e movimentação de texto
-  * Nomear, gravar e encerrar sessão de trabalho
-  * Formatação de página, texto, parágrafos e colunas
-  * Correção ortográfica e dicionário
-  * Inserção de quebra de página e coluna
-  * Listas, marcadores e numeradores
-  * Figuras, objetos e tabelas
+
+   * Visão geral
+   * Digitação e movimentação de texto
+   * Nomear, gravar e encerrar sessão de trabalho
+   * Formatação de página, texto, parágrafos e colunas
+   * Correção ortográfica e dicionário
+   * Inserção de quebra de página e coluna
+   * Listas, marcadores e numeradores
+   * Figuras, objetos e tabelas
 
 5. Software de planilha eletrônica
-  * Visão geral
-  * Formatação células
-  * Fórmulas e funções
-  * Classificação e filtro de dados
-  * Formatação condicional
-  * Gráficos
+
+   * Visão geral
+   * Formatação células
+   * Fórmulas e funções
+   * Classificação e filtro de dados
+   * Formatação condicional
+   * Gráficos
 
 6. Software de apresentação
-  * Visão geral do Software
-  * Assistente de criação
-  * Modos de exibição de slides
-  * Formatação de slides
-  * Impressão de slides
-  * Listas, formatação de textos, inserção de desenhos, figuras, som
-  * Vídeo, inserção de gráficos, organogramas e fluxogramas
-  * Slide mestre
-  * Efeitos de transição e animação de slides
+
+   * Visão geral do Software
+   * Assistente de criação
+   * Modos de exibição de slides
+   * Formatação de slides
+   * Impressão de slides
+   * Listas, formatação de textos, inserção de desenhos, figuras, som
+   * Vídeo, inserção de gráficos, organogramas e fluxogramas
+   * Slide mestre
+   * Efeitos de transição e animação de slides
 
 Procedimentos Metodogógicos
 ----------------------------
