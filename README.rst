@@ -29,8 +29,8 @@ Bases Científico-Tecnológicas (Conteúdos)
 --------------------------------------------
 1. Introdução à informática
 
-  * Hardware
-  * Software
+   * Hardware
+   * Software
   
 2. Sistemas operacionais
 
