@@ -129,9 +129,9 @@ ISBN 85-352-1536-0.
 Paulo: Brasiliense, 2007. 157 p. ISBN 85-11-14081-6.
 3. GLENWRIGHT, Jerry. Fique por dentro da internet. São Paulo: Cosac Naify, 2001. 192 p. il. ISBN 85-7503-037-
 X.
-4. BORGES, Klaibson Natal Ribeiro. LibreOffice para Leigos. Disponível em http://www.brofficeparaleigos.org/
+4. [BORGES, Klaibson Natal Ribeiro. LibreOffice para Leigos](http://www.pm.pa.gov.br/sites/default/files/files/libre-office-para-leigos.pdf)
 5. Apostilas e estudos dirigidos desenvolvidos por professores da área de Informáticado IFRN
-6. Apostilas disponíveis em http://www.broffice.org/
+6. Apostilas disponíveis em http://www.tutorialsforopenoffice.org/
 
 Software(s) de Apoio
 --------------------
