@@ -1,6 +1,6 @@
 
 * **Curso:** Técnico Integrado em Mecatrônica
-* **Disciplina:** Fundamentos de Sistemas Operacionais e Sistemas Operacionais de Redes
+* **Disciplina:** Informática
 * **Carga-horária:** 45h (60h/a)
 
 ## Ementa
